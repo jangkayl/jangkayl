@@ -69,16 +69,6 @@
 
 ---
 
-## 🤖 Prompt Engineering
-> I can speak fluent ChatGPT 🤖💬  
-Prompting isn't just a skill—it's my creative playground. I love designing smart prompts for:
-- 🧠 Generating AI-assisted UIs
-- 📝 Document & code generation
-- 🔄 Automating workflows
-- 🎓 Explaining complex tech in plain English
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
