@@ -9,7 +9,7 @@
 ## 💡 About Me
 
 🎓 I'm a passionate Computer Science student and full-stack developer who loves crafting efficient web applications.  
-🧠 I’m not just coding—I’m also mastering the art of **prompt engineering** like an AI whisperer.  
+🧠 I’m not just coding I’m also mastering the art of **prompt engineering** like an AI whisperer.  
 🚀 I build fast, scalable, and clean apps using modern stacks across the frontend and backend.  
 
 ---
@@ -63,6 +63,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
