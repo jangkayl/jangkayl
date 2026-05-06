@@ -10,13 +10,14 @@
 
 🎓 I'm a passionate Computer Science student and full-stack developer who loves crafting efficient web applications.  
 🧠 I’m not just coding I’m also mastering the art of **prompt engineering** like an AI whisperer.  
-🚀 I build fast, scalable, and clean apps using modern stacks across the frontend and backend.  
+🚀 I build fast, scalable, and clean apps using modern stacks across the frontend and backend.
 
 ---
 
 ## 🛠️ My Toolkit
 
 ### 🔮 Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -28,18 +29,18 @@
 ![C%23](https://img.shields.io/badge/-C%23-6A0DAD?logo=c-sharp&logoColor=white&style=for-the-badge)
 
 ### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![TanStack](https://img.shields.io/badge/-TanStack-FF4154?logo=reactquery&logoColor=white&style=for-the-badge)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-111827?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -47,6 +48,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 
 ### 🗃 Databases
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
@@ -55,6 +57,7 @@
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-00758F?logo=mysql&logoColor=white&style=for-the-badge)
 
 ### 🧰 Tools & IDEs
+
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=green&style=for-the-badge)
@@ -63,7 +66,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
@@ -88,17 +90,8 @@
 
 ---
 
-## 💬 Quote of the Day
-
-> "_In a world full of bugs, be the debugger._" 🐞
-
----
-
 ## 📫 Let's Connect
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/kayltng)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/kayltng)  
-[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/kyleabno)  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/kayltng)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/kayltng) [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/kayltng) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/john-kyle-villarazo-2bb07a368/?locale=en_US)
 
 ---
